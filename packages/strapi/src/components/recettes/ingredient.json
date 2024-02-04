@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_recettes_ingredients",
+  "info": {
+    "displayName": "ingredient",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "nom": {
+      "type": "string"
+    }
+  }
+}
